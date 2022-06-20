@@ -1,0 +1,50 @@
+table{
+    margin-top: 30px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    border:none;
+}
+
+tr{
+    height: 250px;
+    width: 250px;
+}
+select{
+    width: 200px;
+    font-weight: 400;
+    font-family: cursive;
+    padding-bottom: 20px;
+    margin-bottom: 30px;
+    margin: 20px;
+    text-align: left;
+}
+
+.h1{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin-top: 50px;    
+}
+h1{
+    padding-left: 30px;
+    margin-top: 30px;
+}
+h3{
+    padding-left: 30px;
+    margin-top: 30px;
+}
+button{
+    margin-left: 30px;
+    margin-top: 50px;
+    margin-bottom: 10px;
+    padding: 10px;
+    width: 200px;
+    background-color: brown;
+    color: whitesmoke;
+    border-color: black black black black;
+    border-radius: 20px;
+    
+}
+
+
